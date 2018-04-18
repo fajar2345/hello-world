@@ -1,2 +1,5 @@
 # hello-world
-Pemograman
+
+hi.
+    Nama Gua Fajar Zega 
+    Kuliah diperguruan Tinggi Swasta Universitas Sari Mutiara Indonesia.
